@@ -1,6 +1,5 @@
 *{
     margin:0;
-    margin-left:30px;
     padding: 0;
     font-family: 'poppins',sans-serif;
     box-sizing: border-box;
@@ -102,6 +101,7 @@ nav ul li a:hover::after{
 }
 .about-col-1 img{
     width: 100%;
+    margin-left: 30px;
     border-radius: 15px;
 }
 
